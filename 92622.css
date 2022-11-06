@@ -1,0 +1,40 @@
+h1{
+  color: #2b2a21;
+  font-family: "courier new";
+  font-size: 60px;
+}
+
+body{
+  background-color: #edebda;
+  cursor: grab;
+  font-size: 26px;
+  cursor: grabbing;
+  background-image: url(jupiter.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  top: 100;
+
+}
+
+p{
+  color: #edebda;
+  font-family: "courier new";
+  font-size: 20px;
+  position: relative;
+}
+
+a{
+  text-decoration: none;
+  color:#edebda;
+  font-family: "courier new";
+}
+
+a:visited {
+  text-decoration: none;
+  color:#edebda;
+  font-family: "courier new";
+}
+
+a:hover{
+  color: #fcba03;
+}
